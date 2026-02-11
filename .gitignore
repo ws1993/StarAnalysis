@@ -54,3 +54,4 @@ data/previous_cache.json
 !.env.example
 !starred_data.json
 !STARRED_REPOS.md
+.ace-tool/

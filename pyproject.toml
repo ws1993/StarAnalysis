@@ -47,13 +47,13 @@ dependencies = [
 [project.optional-dependencies]
 anthropic = ["anthropic>=0.40.0"]
 openai = ["openai>=1.0.0"]
-gemini = ["google-generativeai>=0.3.0"]
+gemini = ["google-genai>=1.0.0"]
 
 # Install all LLM providers
 all = [
     "anthropic>=0.40.0",
     "openai>=1.0.0",
-    "google-generativeai>=0.3.0",
+    "google-genai>=1.0.0",
 ]
 
 dev = [

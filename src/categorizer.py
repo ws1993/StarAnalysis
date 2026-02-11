@@ -2,7 +2,7 @@
 
 import json
 import logging
-from typing import Optional
+from typing import Any, Optional
 
 from .models import Repository, Category, CategorizedRepos
 from .llm import BaseLLMProvider
@@ -109,6 +109,58 @@ Return ONLY valid JSON in this exact format:
         except Exception as e:
             logger.warning(f"Failed to generate categories: {e}. Using defaults.")
             return DEFAULT_CATEGORIES
+
+    def _normalize_assignments(self, raw: Any) -> dict[str, str]:
+        if isinstance(raw, dict):
+            if "assignments" in raw:
+                return self._normalize_assignments(raw.get("assignments"))
+            if "results" in raw:
+                return self._normalize_assignments(raw.get("results"))
+
+            assignments: dict[str, str] = {}
+            for key, value in raw.items():
+                if isinstance(value, str):
+                    assignments[str(key)] = value
+                    continue
+                if isinstance(value, dict):
+                    for cat_key in ("category", "category_name", "assigned_category", "label"):
+                        cat_value = value.get(cat_key)
+                        if isinstance(cat_value, str):
+                            assignments[str(key)] = cat_value
+                            break
+            return assignments
+
+        if isinstance(raw, list):
+            assignments = {}
+            for item in raw:
+                if isinstance(item, dict):
+                    repo = None
+                    category = None
+                    for repo_key in ("full_name", "repo", "repository", "name"):
+                        repo_value = item.get(repo_key)
+                        if isinstance(repo_value, str):
+                            repo = repo_value
+                            break
+                    for cat_key in ("category", "category_name", "assigned_category", "label"):
+                        cat_value = item.get(cat_key)
+                        if isinstance(cat_value, str):
+                            category = cat_value
+                            break
+                    if repo and category:
+                        assignments[repo] = category
+                        continue
+                    if len(item) == 1:
+                        key, value = next(iter(item.items()))
+                        if isinstance(key, str) and isinstance(value, str):
+                            assignments[key] = value
+                            continue
+                if isinstance(item, (list, tuple)) and len(item) == 2:
+                    repo, category = item
+                    if isinstance(repo, str) and isinstance(category, str):
+                        assignments[repo] = category
+            return assignments
+
+        return {}
     
     def categorize_batch(
         self,
@@ -157,11 +209,21 @@ RULES:
 3. Use "📦 Miscellaneous" only when no other category fits
 4. Base decisions on: description, language, topics, and README preview
 
-Return ONLY valid JSON mapping full_name to category name:
+        Return ONLY valid JSON mapping full_name to category name:
 {{"owner/repo1": "🤖 AI & Machine Learning", "owner/repo2": "🌐 Web Development"}}"""
 
         try:
-            return self.llm.complete_json(prompt)
+            raw = self.llm.complete_json(prompt)
+            assignments = self._normalize_assignments(raw)
+            if not assignments:
+                raise ValueError("Empty or invalid assignments from LLM response")
+            if not isinstance(raw, dict):
+                logger.warning(
+                    "LLM returned %s for assignments; normalized to dict with %d items",
+                    type(raw).__name__,
+                    len(assignments),
+                )
+            return assignments
         except Exception as e:
             logger.error(f"Categorization failed: {e}")
             # Return all as miscellaneous on failure

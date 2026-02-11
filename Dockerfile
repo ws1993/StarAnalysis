@@ -11,7 +11,7 @@ COPY requirements.txt .
 RUN pip install --no-cache-dir -r requirements.txt
 
 # Install all LLM providers
-RUN pip install --no-cache-dir anthropic openai google-generativeai
+RUN pip install --no-cache-dir anthropic openai google-genai
 
 # Copy source code
 COPY src/ src/
