@@ -1,6 +1,6 @@
 # ⭐ My Starred Repositories
 
-*Last updated: 2026-06-05 06:20 UTC*
+*Last updated: 2026-06-06 05:52 UTC*
 *Categorized using gemini (gemini-3-flash-preview)*
 
 **129** repositories organized into **16** categories
@@ -14,102 +14,102 @@
 ### 📦 Miscellaneous
 *Other useful repositories*
 
-- [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) `Python` ⭐ 389,696 - :books: Freely available programming books
-- [obra/superpowers](https://github.com/obra/superpowers) `Shell` ⭐ 218,223 - An agentic skills framework & software development methodology that works.
-- [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) `Python` ⭐ 163,445 - Stable Diffusion web UI
-- [GrowingGit/GitHub-Chinese-Top-Charts](https://github.com/GrowingGit/GitHub-Chinese-Top-Charts) `Java` ⭐ 108,215 - :cn: GitHub中文排行榜，各语言分设「软件 | 资料」榜单，精准定位中文好项目。各取所需，高效学习。
-- [storybookjs/storybook](https://github.com/storybookjs/storybook) `TypeScript` ⭐ 90,184 - Storybook is the industry standard workshop for building, documenting, and testing UI components in ...
-- [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) `JavaScript` ⭐ 87,663 - A fancy self-hosted monitoring tool
-- [NaiboWang/EasySpider](https://github.com/NaiboWang/EasySpider) `JavaScript` ⭐ 43,921 - A visual no-code/code-free web crawler/spider易采集：一个可视化浏览器自动化测试/数据采集/网页爬虫软件，可以无代码图形化的设计和执行爬虫任务。别名：Ser...
-- [dcloudio/uni-app](https://github.com/dcloudio/uni-app) `Objective-C` ⭐ 41,539 - A cross-platform framework using Vue.js
-- [google/styleguide](https://github.com/google/styleguide) `HTML` ⭐ 39,357 - Style guides for Google-originated open-source projects
-- [chatanywhere/GPT_API_free](https://github.com/chatanywhere/GPT_API_free) ⭐ 38,328 - Free ChatGPT&DeepSeek API Key，免费ChatGPT&DeepSeek API。免费接入DeepSeek API和GPT4 API，支持 gpt | deepseek | c...
-- [songquanpeng/one-api](https://github.com/songquanpeng/one-api) `JavaScript` ⭐ 34,618 - LLM API 管理 & 分发系统，支持 OpenAI、Azure、Anthropic Claude、Google Gemini、DeepSeek、字节豆包、ChatGLM、文心一言、讯飞星火、通义千...
-- [xitu/gold-miner](https://github.com/xitu/gold-miner) ⭐ 34,305 - 🥇掘金翻译计划，可能是世界最大最好的英译中技术社区，最懂读者和译者的翻译平台：
-- [lizongying/my-tv](https://github.com/lizongying/my-tv) `C` ⭐ 32,086 - 我的电视 电视直播软件，安装即可使用
-- [lbjlaq/Antigravity-Manager](https://github.com/lbjlaq/Antigravity-Manager) `Rust` ⭐ 29,612 - Professional Antigravity Account Manager & Switcher. One-click seamless account switching for Antigr...
-- [postcss/postcss](https://github.com/postcss/postcss) `TypeScript` ⭐ 28,960 - Transforming styles with JS plugins
-- [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates) `Python` ⭐ 27,776 - CLI tool for configuring and monitoring Claude Code
-- [Molunerfinn/PicGo](https://github.com/Molunerfinn/PicGo) `TypeScript` ⭐ 26,781 - :rocket: The Ultimate Image Uploader for Efficient Creators. Supports Obsidian, Typora, VS Code etc....
-- [BabylonJS/Babylon.js](https://github.com/BabylonJS/Babylon.js) `TypeScript` ⭐ 25,603 - Babylon.js is a powerful, beautiful, simple, and open game and rendering engine packed into a friend...
-- [mihomo-party-org/clash-party](https://github.com/mihomo-party-org/clash-party) `TypeScript` ⭐ 24,365 - :electron: Another Mihomo GUI. 
-- [Devolutions/UniGetUI](https://github.com/Devolutions/UniGetUI) `C#` ⭐ 24,249 - UniGetUI: The Graphical Interface for your package managers. Could be terribly described as a packag...
-- [Guovin/iptv-api](https://github.com/Guovin/iptv-api) `Python` ⭐ 23,980 - ⚡️IPTV直播源自动更新平台『🤖全自动采集、筛选、测速、生成🚀』：自定义获取频道；IPv4/IPv6；接口验效；推流；多平台支持；工作流、Docker、命令行、GUI多端部署 | IPTV live...
-- [Sanster/IOPaint](https://github.com/Sanster/IOPaint) `Python` ⭐ 23,175 - Image inpainting tool powered by SOTA AI Model. Remove any unwanted object, defect, people from your...
-- [google/eng-practices](https://github.com/google/eng-practices) ⭐ 23,091 - Google's Engineering Practices documentation
-- [teableio/teable](https://github.com/teableio/teable) `TypeScript` ⭐ 21,303 - ✨ The Next Gen Airtable Alternative: No-Code Postgres
-- [openai/chatgpt-retrieval-plugin](https://github.com/openai/chatgpt-retrieval-plugin) `Python` ⭐ 21,197 - The ChatGPT Retrieval Plugin lets you easily find personal or work documents by asking questions in ...
-- [1Panel-dev/MaxKB](https://github.com/1Panel-dev/MaxKB) `Python` ⭐ 21,146 - 🔥 MaxKB is an open-source platform for building enterprise-grade agents.  强大易用的开源企业级智能体平台。
-- [pranshuparmar/witr](https://github.com/pranshuparmar/witr) `Go` ⭐ 17,682 - Why is this running?
-- [Huanshere/VideoLingo](https://github.com/Huanshere/VideoLingo) `Python` ⭐ 17,242 - Netflix-level subtitle cutting, translation, alignment, and even dubbing - one-click fully automated...
-- [dream-num/Luckysheet](https://github.com/dream-num/Luckysheet) `JavaScript` ⭐ 16,626 - Luckysheet upgraded to Univer
-- [cft0808/edict](https://github.com/cft0808/edict) `Python` ⭐ 15,973 - 🏛️ 三省六部制 · OpenClaw Multi-Agent Orchestration System — 9 specialized AI agents with real-time dashbo...
-- [Y2Z/monolith](https://github.com/Y2Z/monolith) `Rust` ⭐ 15,146 - ⬛️ CLI tool and library for saving complete web pages as a single HTML file
-- [Anionex/banana-slides](https://github.com/Anionex/banana-slides) `Python` ⭐ 14,839 - 一个基于nano banana pro🍌的原生AI PPT生成应用，迈向＂Vibe PPT＂; 支持上传任意模板图片，上传任意素材&智能解析，一句话/大纲/页面描述自动生成PPT，口头修改指定区域、一...
-- [Sjj1024/PakePlus](https://github.com/Sjj1024/PakePlus) `HTML` ⭐ 12,760 - Turn any webpage/HTML/Vue/React and so on into desktop and mobile app under 5M with easy in few minu...
-- [openlayers/openlayers](https://github.com/openlayers/openlayers) `JavaScript` ⭐ 12,453 - OpenLayers
-- [TheR1D/shell_gpt](https://github.com/TheR1D/shell_gpt) `Python` ⭐ 12,110 - A command-line productivity tool powered by AI large language models like GPT-5, will help you accom...
-- [o2sh/onefetch](https://github.com/o2sh/onefetch) `Rust` ⭐ 11,877 - Command-line Git information tool
-- [ChatGPTBox-dev/chatGPTBox](https://github.com/ChatGPTBox-dev/chatGPTBox) `JavaScript` ⭐ 10,738 - Integrating ChatGPT into your browser deeply, everything you need is here
-- [sourcegraph/sourcegraph-public-snapshot](https://github.com/sourcegraph/sourcegraph-public-snapshot) `Go` ⭐ 10,288 - Code AI platform with Code Search & Cody
-- [krillinai/KrillinAI](https://github.com/krillinai/KrillinAI) `Go` ⭐ 10,214 - AI video translation & dubbing tool for humans and AI Agents, powered by LLMs. Full pipeline: downlo...
-- [bluewave-labs/Checkmate](https://github.com/bluewave-labs/Checkmate) `TypeScript` ⭐ 9,895 - Checkmate is an open-source, self-hosted tool designed to track and monitor server hardware, uptime,...
-- [xuebinqin/U-2-Net](https://github.com/xuebinqin/U-2-Net) `Python` ⭐ 9,758 - The code for our newly accepted paper in Pattern Recognition 2020: "U^2-Net: Going Deeper with Neste...
+- [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) `Python` ⭐ 389,761 - :books: Freely available programming books
+- [obra/superpowers](https://github.com/obra/superpowers) `Shell` ⭐ 219,041 - An agentic skills framework & software development methodology that works.
+- [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) `Python` ⭐ 163,490 - Stable Diffusion web UI
+- [GrowingGit/GitHub-Chinese-Top-Charts](https://github.com/GrowingGit/GitHub-Chinese-Top-Charts) `Java` ⭐ 108,218 - :cn: GitHub中文排行榜，各语言分设「软件 | 资料」榜单，精准定位中文好项目。各取所需，高效学习。
+- [storybookjs/storybook](https://github.com/storybookjs/storybook) `TypeScript` ⭐ 90,211 - Storybook is the industry standard workshop for building, documenting, and testing UI components in ...
+- [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) `JavaScript` ⭐ 87,706 - A fancy self-hosted monitoring tool
+- [NaiboWang/EasySpider](https://github.com/NaiboWang/EasySpider) `JavaScript` ⭐ 43,927 - A visual no-code/code-free web crawler/spider易采集：一个可视化浏览器自动化测试/数据采集/网页爬虫软件，可以无代码图形化的设计和执行爬虫任务。别名：Ser...
+- [dcloudio/uni-app](https://github.com/dcloudio/uni-app) `Objective-C` ⭐ 41,537 - A cross-platform framework using Vue.js
+- [google/styleguide](https://github.com/google/styleguide) `HTML` ⭐ 39,359 - Style guides for Google-originated open-source projects
+- [chatanywhere/GPT_API_free](https://github.com/chatanywhere/GPT_API_free) ⭐ 38,342 - Free ChatGPT&DeepSeek API Key，免费ChatGPT&DeepSeek API。免费接入DeepSeek API和GPT4 API，支持 gpt | deepseek | c...
+- [songquanpeng/one-api](https://github.com/songquanpeng/one-api) `JavaScript` ⭐ 34,654 - LLM API 管理 & 分发系统，支持 OpenAI、Azure、Anthropic Claude、Google Gemini、DeepSeek、字节豆包、ChatGLM、文心一言、讯飞星火、通义千...
+- [xitu/gold-miner](https://github.com/xitu/gold-miner) ⭐ 34,306 - 🥇掘金翻译计划，可能是世界最大最好的英译中技术社区，最懂读者和译者的翻译平台：
+- [lizongying/my-tv](https://github.com/lizongying/my-tv) `C` ⭐ 32,090 - 我的电视 电视直播软件，安装即可使用
+- [lbjlaq/Antigravity-Manager](https://github.com/lbjlaq/Antigravity-Manager) `Rust` ⭐ 29,635 - Professional Antigravity Account Manager & Switcher. One-click seamless account switching for Antigr...
+- [postcss/postcss](https://github.com/postcss/postcss) `TypeScript` ⭐ 28,959 - Transforming styles with JS plugins
+- [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates) `Python` ⭐ 27,792 - CLI tool for configuring and monitoring Claude Code
+- [Molunerfinn/PicGo](https://github.com/Molunerfinn/PicGo) `TypeScript` ⭐ 26,784 - :rocket: The Ultimate Image Uploader for Efficient Creators. Supports Obsidian, Typora, VS Code etc....
+- [BabylonJS/Babylon.js](https://github.com/BabylonJS/Babylon.js) `TypeScript` ⭐ 25,607 - Babylon.js is a powerful, beautiful, simple, and open game and rendering engine packed into a friend...
+- [mihomo-party-org/clash-party](https://github.com/mihomo-party-org/clash-party) `TypeScript` ⭐ 24,402 - :electron: Another Mihomo GUI. 
+- [Devolutions/UniGetUI](https://github.com/Devolutions/UniGetUI) `C#` ⭐ 24,274 - UniGetUI: The Graphical Interface for your package managers. Could be terribly described as a packag...
+- [Guovin/iptv-api](https://github.com/Guovin/iptv-api) `Python` ⭐ 23,983 - ⚡️IPTV直播源自动更新平台『🤖全自动采集、筛选、测速、生成🚀』：自定义获取频道；IPv4/IPv6；接口验效；推流；多平台支持；工作流、Docker、命令行、GUI多端部署 | IPTV live...
+- [Sanster/IOPaint](https://github.com/Sanster/IOPaint) `Python` ⭐ 23,174 - Image inpainting tool powered by SOTA AI Model. Remove any unwanted object, defect, people from your...
+- [google/eng-practices](https://github.com/google/eng-practices) ⭐ 23,104 - Google's Engineering Practices documentation
+- [teableio/teable](https://github.com/teableio/teable) `TypeScript` ⭐ 21,305 - ✨ The Next Gen Airtable Alternative: No-Code Postgres
+- [openai/chatgpt-retrieval-plugin](https://github.com/openai/chatgpt-retrieval-plugin) `Python` ⭐ 21,198 - The ChatGPT Retrieval Plugin lets you easily find personal or work documents by asking questions in ...
+- [1Panel-dev/MaxKB](https://github.com/1Panel-dev/MaxKB) `Python` ⭐ 21,154 - 🔥 MaxKB is an open-source platform for building enterprise-grade agents.  强大易用的开源企业级智能体平台。
+- [pranshuparmar/witr](https://github.com/pranshuparmar/witr) `Go` ⭐ 17,702 - Why is this running?
+- [Huanshere/VideoLingo](https://github.com/Huanshere/VideoLingo) `Python` ⭐ 17,256 - Netflix-level subtitle cutting, translation, alignment, and even dubbing - one-click fully automated...
+- [dream-num/Luckysheet](https://github.com/dream-num/Luckysheet) `JavaScript` ⭐ 16,627 - Luckysheet upgraded to Univer
+- [cft0808/edict](https://github.com/cft0808/edict) `Python` ⭐ 15,988 - 🏛️ 三省六部制 · OpenClaw Multi-Agent Orchestration System — 9 specialized AI agents with real-time dashbo...
+- [Y2Z/monolith](https://github.com/Y2Z/monolith) `Rust` ⭐ 15,153 - ⬛️ CLI tool and library for saving complete web pages as a single HTML file
+- [Anionex/banana-slides](https://github.com/Anionex/banana-slides) `Python` ⭐ 14,840 - 一个基于nano banana pro🍌的原生AI PPT生成应用，迈向＂Vibe PPT＂; 支持上传任意模板图片，上传任意素材&智能解析，一句话/大纲/页面描述自动生成PPT，口头修改指定区域、一...
+- [Sjj1024/PakePlus](https://github.com/Sjj1024/PakePlus) `HTML` ⭐ 12,789 - Turn any webpage/HTML/Vue/React and so on into desktop and mobile app under 5M with easy in few minu...
+- [openlayers/openlayers](https://github.com/openlayers/openlayers) `JavaScript` ⭐ 12,455 - OpenLayers
+- [TheR1D/shell_gpt](https://github.com/TheR1D/shell_gpt) `Python` ⭐ 12,112 - A command-line productivity tool powered by AI large language models like GPT-5, will help you accom...
+- [o2sh/onefetch](https://github.com/o2sh/onefetch) `Rust` ⭐ 11,878 - Command-line Git information tool
+- [ChatGPTBox-dev/chatGPTBox](https://github.com/ChatGPTBox-dev/chatGPTBox) `JavaScript` ⭐ 10,739 - Integrating ChatGPT into your browser deeply, everything you need is here
+- [sourcegraph/sourcegraph-public-snapshot](https://github.com/sourcegraph/sourcegraph-public-snapshot) `Go` ⭐ 10,286 - Code AI platform with Code Search & Cody
+- [krillinai/KrillinAI](https://github.com/krillinai/KrillinAI) `Go` ⭐ 10,221 - AI video translation & dubbing tool for humans and AI Agents, powered by LLMs. Full pipeline: downlo...
+- [bluewave-labs/Checkmate](https://github.com/bluewave-labs/Checkmate) `TypeScript` ⭐ 9,903 - Checkmate is an open-source, self-hosted tool designed to track and monitor server hardware, uptime,...
+- [xuebinqin/U-2-Net](https://github.com/xuebinqin/U-2-Net) `Python` ⭐ 9,761 - The code for our newly accepted paper in Pattern Recognition 2020: "U^2-Net: Going Deeper with Neste...
 - [highlight/highlight](https://github.com/highlight/highlight) `TypeScript` ⭐ 9,287 - highlight.io: The open source, full-stack monitoring platform. Error monitoring, session replay, log...
-- [xxlllq/system_architect](https://github.com/xxlllq/system_architect) `HTML` ⭐ 8,499 - :100: 2026年系统架构设计师（软考高级）备考资料。
-- [xixu-me/xget](https://github.com/xixu-me/xget) `JavaScript` ⭐ 8,124 - Ultra-high-performance, secure, all-in-one acceleration engine for developer resources
+- [xxlllq/system_architect](https://github.com/xxlllq/system_architect) `HTML` ⭐ 8,501 - :100: 2026年系统架构设计师（软考高级）备考资料。
+- [xixu-me/xget](https://github.com/xixu-me/xget) `JavaScript` ⭐ 8,126 - Ultra-high-performance, secure, all-in-one acceleration engine for developer resources
 - [microsoft/Mastering-GitHub-Copilot-for-Paired-Programming](https://github.com/microsoft/Mastering-GitHub-Copilot-for-Paired-Programming) `Python` ⭐ 7,946 - A multi-module course teaching everything you need to know about using GitHub Copilot as an AI Peer ...
-- [mli/autocut](https://github.com/mli/autocut) `Python` ⭐ 7,720 - 用文本编辑器剪视频
-- [michaelvillar/dynamics.js](https://github.com/michaelvillar/dynamics.js) `CoffeeScript` ⭐ 7,556 - Javascript library to create physics-based animations
-- [KaringX/clashmi](https://github.com/KaringX/clashmi) `Dart` ⭐ 7,376 - Clash Mihomo for iOS/MacOS/Android/Windows/Linux
-- [eze-is/web-access](https://github.com/eze-is/web-access) `JavaScript` ⭐ 7,186 - 给 Claude Code 装上完整联网能力的 skill：三层通道调度 + 浏览器 CDP + 并行分治
-- [OneUptime/oneuptime](https://github.com/OneUptime/oneuptime) `TypeScript` ⭐ 7,108 - Complete open-source monitoring and observability platform.
-- [builtbybel/FlyOOBE](https://github.com/builtbybel/FlyOOBE) `C#` ⭐ 6,948 - Fly through your Windows 11 setup 🐝
-- [yihong0618/xiaogpt](https://github.com/yihong0618/xiaogpt) `Python` ⭐ 6,844 - Play ChatGPT and other LLM with Xiaomi AI Speaker
+- [mli/autocut](https://github.com/mli/autocut) `Python` ⭐ 7,723 - 用文本编辑器剪视频
+- [michaelvillar/dynamics.js](https://github.com/michaelvillar/dynamics.js) `CoffeeScript` ⭐ 7,555 - Javascript library to create physics-based animations
+- [KaringX/clashmi](https://github.com/KaringX/clashmi) `Dart` ⭐ 7,398 - Clash Mihomo for iOS/MacOS/Android/Windows/Linux
+- [eze-is/web-access](https://github.com/eze-is/web-access) `JavaScript` ⭐ 7,219 - 给 Claude Code 装上完整联网能力的 skill：三层通道调度 + 浏览器 CDP + 并行分治
+- [OneUptime/oneuptime](https://github.com/OneUptime/oneuptime) `TypeScript` ⭐ 7,113 - Complete open-source monitoring and observability platform.
+- [builtbybel/FlyOOBE](https://github.com/builtbybel/FlyOOBE) `C#` ⭐ 6,950 - Fly through your Windows 11 setup 🐝
+- [yihong0618/xiaogpt](https://github.com/yihong0618/xiaogpt) `Python` ⭐ 6,846 - Play ChatGPT and other LLM with Xiaomi AI Speaker
 - [FQrabbit/SSTap-Rule](https://github.com/FQrabbit/SSTap-Rule) `Python` ⭐ 6,562 - 支持更多游戏规则，让SSTap成为真正的“网游加速器”
 - [Meituan-Dianping/Logan](https://github.com/Meituan-Dianping/Logan) `C` ⭐ 6,008 - Logan is a lightweight case logging system based on mobile platform.
 - [501351981/vue-office](https://github.com/501351981/vue-office) `JavaScript` ⭐ 5,607 - 支持word(.docx)、excel(.xlsx,.xls)、pdf、pptx等各类型office文件预览的vue组件集合，提供一站式office文件预览方案，支持vue2和3，也支持React等非...
-- [BuilderIO/ai-shell](https://github.com/BuilderIO/ai-shell) `TypeScript` ⭐ 5,252 - A CLI that converts natural language to shell commands.
-- [Adpro-Team/GKD_THS_List](https://github.com/Adpro-Team/GKD_THS_List) `TypeScript` ⭐ 5,008 - GKD第三方订阅收录名单
-- [InterceptSuite/ProxyBridge](https://github.com/InterceptSuite/ProxyBridge) `C` ⭐ 4,888 - Proxifier Alternative to redirect any Windows/MacOS/Linux TCP and UDP traffic to HTTP/Socks5 proxy
-- [productdevbook/port-killer](https://github.com/productdevbook/port-killer) `Swift` ⭐ 4,846 - A powerful cross-platform port management tool for developers. Monitor ports, manage Kubernetes port...
-- [LLMBook-zh/LLMBook-zh.github.io](https://github.com/LLMBook-zh/LLMBook-zh.github.io) `Python` ⭐ 4,486 - 《大语言模型》作者：赵鑫，李军毅，周昆，唐天一，文继荣
-- [anc95/ChatGPT-CodeReview](https://github.com/anc95/ChatGPT-CodeReview) `JavaScript` ⭐ 4,442 - 🐥 A code review bot powered by ChatGPT
-- [zebbern/claude-code-guide](https://github.com/zebbern/claude-code-guide) `Python` ⭐ 4,233 - Claude Code Guide - Setup, Commands, workflows, agents, skills & tips-n-tricks go from beginner to p...
+- [BuilderIO/ai-shell](https://github.com/BuilderIO/ai-shell) `TypeScript` ⭐ 5,253 - A CLI that converts natural language to shell commands.
+- [Adpro-Team/GKD_THS_List](https://github.com/Adpro-Team/GKD_THS_List) `TypeScript` ⭐ 5,010 - GKD第三方订阅收录名单
+- [InterceptSuite/ProxyBridge](https://github.com/InterceptSuite/ProxyBridge) `C` ⭐ 4,903 - Proxifier Alternative to redirect any Windows/MacOS/Linux TCP and UDP traffic to HTTP/Socks5 proxy
+- [productdevbook/port-killer](https://github.com/productdevbook/port-killer) `Swift` ⭐ 4,849 - A powerful cross-platform port management tool for developers. Monitor ports, manage Kubernetes port...
+- [LLMBook-zh/LLMBook-zh.github.io](https://github.com/LLMBook-zh/LLMBook-zh.github.io) `Python` ⭐ 4,487 - 《大语言模型》作者：赵鑫，李军毅，周昆，唐天一，文继荣
+- [anc95/ChatGPT-CodeReview](https://github.com/anc95/ChatGPT-CodeReview) `JavaScript` ⭐ 4,441 - 🐥 A code review bot powered by ChatGPT
+- [zebbern/claude-code-guide](https://github.com/zebbern/claude-code-guide) `Python` ⭐ 4,235 - Claude Code Guide - Setup, Commands, workflows, agents, skills & tips-n-tricks go from beginner to p...
 - [liyupi/sql-mother](https://github.com/liyupi/sql-mother) `TypeScript` ⭐ 4,187 - 程序员鱼皮原创项目，免费的闯关交互式 SQL 自学教程网站，从零基础到进阶，带你掌握常用 SQL 语法（MySQL、SQLite、PostgreSQL）、快速学习 SQL 和数据库。支持在线SQL编辑...
-- [mckaywrigley/ai-code-translator](https://github.com/mckaywrigley/ai-code-translator) `TypeScript` ⭐ 4,164 - Use AI to translate code from one language to another.
-- [alchaincyf/hermes-agent-orange-book](https://github.com/alchaincyf/hermes-agent-orange-book) ⭐ 4,051 - Hermes Agent 从入门到精通 · 橙皮书系列 · Nous Research 开源 AI Agent 框架实战指南
-- [jasondavies/d3-cloud](https://github.com/jasondavies/d3-cloud) `JavaScript` ⭐ 3,940 - Create word clouds in JavaScript.
+- [mckaywrigley/ai-code-translator](https://github.com/mckaywrigley/ai-code-translator) `TypeScript` ⭐ 4,165 - Use AI to translate code from one language to another.
+- [alchaincyf/hermes-agent-orange-book](https://github.com/alchaincyf/hermes-agent-orange-book) ⭐ 4,064 - Hermes Agent 从入门到精通 · 橙皮书系列 · Nous Research 开源 AI Agent 框架实战指南
+- [jasondavies/d3-cloud](https://github.com/jasondavies/d3-cloud) `JavaScript` ⭐ 3,941 - Create word clouds in JavaScript.
 - [tbxark/ChatGPT-Telegram-Workers](https://github.com/tbxark/ChatGPT-Telegram-Workers) `TypeScript` ⭐ 3,793 - Easily deploy your Telegram ChatGPT bot on Cloudflare Workers (or Vercel, Docker...).
 - [visjs/vis-network](https://github.com/visjs/vis-network) `JavaScript` ⭐ 3,573 - :dizzy: Display dynamic, automatically organised, customizable network views.
-- [thomiceli/opengist](https://github.com/thomiceli/opengist) `Go` ⭐ 3,193 - Self-hosted pastebin powered by Git, open-source alternative to Github Gist.
+- [thomiceli/opengist](https://github.com/thomiceli/opengist) `Go` ⭐ 3,195 - Self-hosted pastebin powered by Git, open-source alternative to Github Gist.
 - [M-cheng-web/web-tracing](https://github.com/M-cheng-web/web-tracing) `TypeScript` ⭐ 2,927 - 为前端项目提供【 埋点、行为、性能、异常、请求、资源、路由、曝光、录屏 】监控手段
 - [Ice-Hazymoon/openai-scf-proxy](https://github.com/Ice-Hazymoon/openai-scf-proxy) `JavaScript` ⭐ 2,553 - 使用腾讯云函数一分钟搭建 OpenAI 免翻墙代理
-- [foryourhealth111-pixel/Vibe-Skills](https://github.com/foryourhealth111-pixel/Vibe-Skills) `Python` ⭐ 2,244 - Vibe-Skills is an all-in-one AI skills package. It seamlessly integrates expert-level capabilities a...
-- [Haleclipse/CodexDesktop-Rebuild](https://github.com/Haleclipse/CodexDesktop-Rebuild) `JavaScript` ⭐ 2,197 - Codex Desktop App - Cross-platform Rebuild
+- [foryourhealth111-pixel/Vibe-Skills](https://github.com/foryourhealth111-pixel/Vibe-Skills) `Python` ⭐ 2,251 - Vibe-Skills is an all-in-one AI skills package. It seamlessly integrates expert-level capabilities a...
+- [Haleclipse/CodexDesktop-Rebuild](https://github.com/Haleclipse/CodexDesktop-Rebuild) `JavaScript` ⭐ 2,212 - Codex Desktop App - Cross-platform Rebuild
 - [clouDr-f2e/monitor](https://github.com/clouDr-f2e/monitor) `TypeScript` ⭐ 1,924 - 👀 一款轻量级的收集页面的用户点击行为、路由跳转、接口报错、代码报错、页面性能并上报服务端的SDK
 - [maqi1520/mdx-notes](https://github.com/maqi1520/mdx-notes) `TypeScript` ⭐ 1,588 - ⛷ Cross-platform note-taking software, public layout editor, using MDX ⛷ 跨平台笔记软件，公众号排版编辑器，使用MDX来排版
-- [Syngnat/GoNavi](https://github.com/Syngnat/GoNavi) `TypeScript` ⭐ 1,515 - 现代化、原生体验的数据库管理工具，支持 MySQL、PostgreSQL、SQLite 等数据库，采用 Go 后端 + Wails + React 前端构建，启动快、体积小、性能强。
+- [Syngnat/GoNavi](https://github.com/Syngnat/GoNavi) `TypeScript` ⭐ 1,525 - 现代化、原生体验的数据库管理工具，支持 MySQL、PostgreSQL、SQLite 等数据库，采用 Go 后端 + Wails + React 前端构建，启动快、体积小、性能强。
 - [SalGnt/cscs](https://github.com/SalGnt/cscs) ⭐ 1,502 - A curated list of Coding Style Conventions and Standards.
 - [jtsang4/claude-to-chatgpt](https://github.com/jtsang4/claude-to-chatgpt) `Python` ⭐ 1,299 - This project converts the API of Anthropic's Claude model to the OpenAI Chat API format.
-- [GtxFury/FlyClash](https://github.com/GtxFury/FlyClash) `TypeScript` ⭐ 1,248 - 简洁美观的代理工具
-- [via007/bilibili-rag](https://github.com/via007/bilibili-rag) `Python` ⭐ 1,140 - B站收藏夹RAG知识库：收藏不吃灰，B 站收藏夹 → 语音转写 → 向量检索 → 对话问答
-- [Kiowx/c_cleaner_plus](https://github.com/Kiowx/c_cleaner_plus) `Python` ⭐ 1,082 - Windows的开源强力清理工具，可扫描并清理全盘中的垃圾文件、大文件、重复文件及系统残留等
+- [GtxFury/FlyClash](https://github.com/GtxFury/FlyClash) `TypeScript` ⭐ 1,249 - 简洁美观的代理工具
+- [via007/bilibili-rag](https://github.com/via007/bilibili-rag) `Python` ⭐ 1,145 - B站收藏夹RAG知识库：收藏不吃灰，B 站收藏夹 → 语音转写 → 向量检索 → 对话问答
+- [Kiowx/c_cleaner_plus](https://github.com/Kiowx/c_cleaner_plus) `Python` ⭐ 1,089 - Windows的开源强力清理工具，可扫描并清理全盘中的垃圾文件、大文件、重复文件及系统残留等
 - [sumn2u/learn-javascript](https://github.com/sumn2u/learn-javascript) `HTML` ⭐ 1,032 - A book that teaches JavaScript 📗💻📖
 - [web-infra-dev/rslib](https://github.com/web-infra-dev/rslib) `TypeScript` ⭐ 982 - Create JavaScript libraries in a simple and intuitive way.
 - [woniu9524/CodeAsk](https://github.com/woniu9524/CodeAsk) `TypeScript` ⭐ 909 - This is an LLM-based code reader.
 - [yarin-zhang/AI-Gist](https://github.com/yarin-zhang/AI-Gist) `TypeScript` ⭐ 808 - ✨ AI Gist 是一款隐私优先的 AI 提示词管理工具，致力于让个人收藏的 AI 提示词能够发挥最大价值。支持变量替换、Jinja 模板、AI 生成与调优、历史版本记录、云端备份等核心功能。
+- [1EchA/how-to-vibecoding](https://github.com/1EchA/how-to-vibecoding) ⭐ 762 - Vibecoding 系列教程：从环境搭建到多智能体协作，涵盖 MCP、Skills、Agent 分工治理
 - [jina-ai/auto-gpt-web](https://github.com/jina-ai/auto-gpt-web) `TypeScript` ⭐ 761 - Set Your Goals, AI Achieves Them.
-- [1EchA/how-to-vibecoding](https://github.com/1EchA/how-to-vibecoding) ⭐ 760 - Vibecoding 系列教程：从环境搭建到多智能体协作，涵盖 MCP、Skills、Agent 分工治理
 - [sparrow-js/an-codeAI](https://github.com/sparrow-js/an-codeAI) `TypeScript` ⭐ 730 - AI generate code
 - [obgnail/chinese-internet-is-dead](https://github.com/obgnail/chinese-internet-is-dead) ⭐ 680 - Manually maintained website blocklist
 - [Abnerla/AI_paper](https://github.com/Abnerla/AI_paper) `JavaScript` ⭐ 613 - 一站式AI学术论文写作辅助工具 · 支持从定题出稿全过程，涵盖降AIGC、查重率、润色、纠错等辅助功能
 - [YuJunZhiXue/StudyAnalysis-Skills](https://github.com/YuJunZhiXue/StudyAnalysis-Skills) `Python` ⭐ 572 - 深度解析链接、文档或代码，生成“全能导师级”的教学笔记
 - [sigoden/proxyfor](https://github.com/sigoden/proxyfor) `Rust` ⭐ 475 - A powerful and flexible proxy CLI for capturing and inspecting HTTP(S) and WS(S) traffic, with TUI a...
-- [GanyuanRan/Aegis](https://github.com/GanyuanRan/Aegis) `Shell` ⭐ 451 - Make AI coding agents architecture-aware: baseline-first, evidence-verified, drift-checked, and safe...
-- [KaguraNanaga/docformat-gui](https://github.com/KaguraNanaga/docformat-gui) `Python` ⭐ 447 - 公文格式自动处理工具（可本地运行）
+- [GanyuanRan/Aegis](https://github.com/GanyuanRan/Aegis) `Shell` ⭐ 455 - Make AI coding agents architecture-aware: baseline-first, evidence-verified, drift-checked, and safe...
+- [KaguraNanaga/docformat-gui](https://github.com/KaguraNanaga/docformat-gui) `Python` ⭐ 449 - 公文格式自动处理工具（可本地运行）
 - [yue1123/ts-config-helper](https://github.com/yue1123/ts-config-helper) `TypeScript` ⭐ 447 - Ts Config Helper是一个配置tsconfig.json的交互式工具。它提供多种功能，如可视化配置、文档查阅、搜索、分类过滤和预设配置，帮助您快速学习和组装tsconfig.json配置文...
-- [chengazhen/gitlens-pro](https://github.com/chengazhen/gitlens-pro) `Go` ⭐ 442 - 一个用于激活 GitLens Pro 的工具。
+- [chengazhen/gitlens-pro](https://github.com/chengazhen/gitlens-pro) `Go` ⭐ 443 - 一个用于激活 GitLens Pro 的工具。
 - [FlowmapBlue/FlowmapBlue](https://github.com/FlowmapBlue/FlowmapBlue) `CSS` ⭐ 412 - Flow map visualization tool
 - [openlayers/ol-mapbox-style](https://github.com/openlayers/ol-mapbox-style) `JavaScript` ⭐ 411 - Use Mapbox Style objects with OpenLayers
 - [liangdabiao/claude-data-analysis](https://github.com/liangdabiao/claude-data-analysis) `Python` ⭐ 410 - Create a data analysis AI agent with Claude Code. Make data analysis as simple as having a chat!​​ 别...
